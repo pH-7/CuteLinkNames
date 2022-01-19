@@ -22,6 +22,10 @@ final class NameTest extends TestCase
     {
         return [
             [
+                'http://ph7.me/',
+                'Ph7'
+            ],
+            [
                 'http://myurl.com/path',
                 'Myurl.com Path'
             ],
