@@ -44,7 +44,7 @@ composer require ph-7/cute-link-names
 
 ## 🧑‍🍳 Author
 
-Hey, I'm [Pierre-Henry Sori](https://ph7.me). A passionate software engineer based in Adelaide, SA, Australia 🌴
+Hey, I'm [Pierre-Henry Soria](https://ph7.me). A passionate software engineer based in Adelaide, SA, Australia 🌴
 
 [![Pierre-Henry Soria](https://s.gravatar.com/avatar/a210fe61253c43c869d71eaed0e90149?s=200)](https://ph7.me 'Pierre-Henry Soria resume')
 
