@@ -1,6 +1,11 @@
 {
   "name": "ph-7/cute-link-names",
   "description": "A simple class that converts your URLs to link names",
+  "keywords": [
+    "url",
+    "parser  name",
+    "url-parser"
+  ],
   "type": "library",
   "license": "MIT",
   "require": {
