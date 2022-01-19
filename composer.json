@@ -1,0 +1,23 @@
+{
+  "name": "ph-7/cute-link-names",
+  "description": "A simple class that converts your URLs to link names",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "PH7\\Link\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Pierre-Henry Soria",
+      "email": "hi@ph7.me"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}

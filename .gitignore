@@ -1,0 +1,7 @@
+/vendor
+/.github
+/.idea
+
+.gitattributes
+phpunit.xml
+composer.lock
