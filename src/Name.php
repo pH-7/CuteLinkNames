@@ -10,7 +10,7 @@ final class Name
     {
         $link = strtolower($link);
         $linkName = preg_replace(self::REGEX_URL_FORMAT, '', $link);
-        $linkName = str_replace('/', ' ', $linkName);
+        $linkName = str_replace(['/', '-'], ' ', $linkName);
 
         return ucwords($linkName);
     }

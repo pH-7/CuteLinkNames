@@ -28,6 +28,10 @@ final class NameTest extends TestCase
             [
                 'https://pH7.me/about',
                 'Ph7.me About'
+            ],
+            [
+                'https://ph7.me/link-name-convertor-snippet.png',
+                'Ph7.me Link Name Convertor Snippet'
             ]
         ];
     }
