@@ -17,9 +17,7 @@ composer require ph-7/cute-link-names
 ```php
 use PH7\Link\Name;
 
-
 require_once 'vendor/autoload.php';
-
 
 $url = 'http://ph7.me';
 ?>
@@ -29,6 +27,7 @@ $url = 'http://ph7.me';
   href="<?= $url ?>"
   alt="<?= Name::parse($url) ?>"
 >
+  <!-- Ph7 -->
   <?= Name::parse($url) ?>
 </a>
 </p>
