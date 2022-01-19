@@ -1,4 +1,9 @@
 <?php
+/**
+ * Pierre-Henry Soria - hi@ph7.me
+ * Copyright 2022 Pierre-Henry Soria
+ * MIT License - https://opensource.org/licenses/MIT
+ */
 
 namespace PH7\Link;
 
