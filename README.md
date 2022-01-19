@@ -2,15 +2,11 @@
 
 *A simple class that converts your URLs to link names ✨*
 
-## 📖 Installation
-
-```bash
-composer require ph-7/cute-link-names
-```
 
 ## 👀 Overview
 
 ![Link Name Convertor Snippet](link-name-convertor-snippet.png)
+
 
 # 🎨 Example
 
@@ -33,9 +29,17 @@ $url = 'http://ph7.me';
 </p>
 ```
 
+
 ## ⚙️ Requirements
 
 * [PHP v7.3](https://www.php.net/releases/7_3_0.php) or newer 🚀
+
+
+## 📖 Installation
+
+```bash
+composer require ph-7/cute-link-names
+```
 
 
 ## 🧑‍🍳 Author
