@@ -50,7 +50,7 @@ Hey, I'm [Pierre-Henry Sori](https://ph7.me). A passionate software engineer bas
 
 ## ⚖️ License
 
-[MIT](https://github.com/pH-7/CuteLinkNames/blob/main/LICENSE.md)
+Distributed under [MIT](https://github.com/pH-7/CuteLinkNames/blob/main/LICENSE.md) license 🎉
 
 
 <!-- GitHub's Markdown reference links -->
