@@ -15,15 +15,15 @@ use PHPUnit\Framework\TestCase;
 final class NameTest extends TestCase
 {
     /**
-     * @dataProvider linksProvider
+     * @dataProvider urlAndNamesProvider
      */
-    public function testLinkName(string $link, string $expectedName): void
+    public function testLinkName(string $url, string $expectedName): void
     {
-        $actual = Name::parse($link);
+        $actual = Name::parse($url);
         $this->assertSame($expectedName, $actual);
     }
 
-    public function linksProvider(): array
+    public function urlAndNamesProvider(): array
     {
         return [
             [
