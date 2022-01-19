@@ -40,7 +40,11 @@ final class NameTest extends TestCase
             ],
             [
                 'https://ph7.me/link-name-convertor-snippet.png',
-                'Ph7.me Link Name Convertor Snippet'
+                'Ph7.me Link-name-convertor-snippet'
+            ],
+            [
+                'https://www.pierrehenry.be?myparam=value-foo-bar',
+                'Pierrehenry.be?myparam=value-foo-bar'
             ]
         ];
     }
