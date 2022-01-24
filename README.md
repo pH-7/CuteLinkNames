@@ -5,7 +5,7 @@
 
 ## 👀 Overview
 
-![Link Name Convertor Snippet](link-name-convertor-snippet.png)
+![Link Name Convertor Snippet](php-link-name-convertor.png)
 
 
 # 🎨 Example
