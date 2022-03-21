@@ -51,7 +51,7 @@ Heyllo 🎉, I'm **[Pierre-Henry Soria](https://ph7.me)**. A **passionate softwa
 [![@phenrysay][twitter-image]](https://twitter.com/phenrysay) [![pH-7][github-image]](https://github.com/pH-7)
 
 
-## 📺 Full video. Me building this library 🎉
+## Full video 📺 Me building this library 🔥
 
 [![Watch the video](https://i1.ytimg.com/vi/TgwfrkfXmj0/sddefault.jpg)](https://www.youtube.com/watch?v=TgwfrkfXmj0)
 
