@@ -51,6 +51,13 @@ Heyllo 🎉, I'm **[Pierre-Henry Soria](https://ph7.me)**. A **passionate softwa
 [![@phenrysay][twitter-image]](https://twitter.com/phenrysay) [![pH-7][github-image]](https://github.com/pH-7)
 
 
+## 📺 Video
+
+[![Watch the video](https://i1.ytimg.com/vi/TgwfrkfXmj0/sddefault.jpg)](https://www.youtube.com/watch?v=TgwfrkfXmj0)
+
+👉 **[Click here to watch on YouTube](https://www.youtube.com/watch?v=TgwfrkfXmj0)**
+
+
 ## ⚖️ License
 
 Distributed under [MIT](https://github.com/pH-7/CuteLinkNames/blob/main/LICENSE.md) license 🎉
