@@ -53,7 +53,7 @@ Heyllo 🎉, I'm **[Pierre-Henry Soria](https://ph7.me)**. A **passionate softwa
 
 ## Full video 📺 Me building this library 🔥
 
-[![Watch the video](https://i1.ytimg.com/vi/TgwfrkfXmj0/sddefault.jpg)](https://www.youtube.com/watch?v=TgwfrkfXmj0)
+[![Watch the video][video-thumbnail]](https://www.youtube.com/watch?v=TgwfrkfXmj0)
 
 👉 **[Click here to watch on YouTube](https://www.youtube.com/watch?v=TgwfrkfXmj0)**
 
@@ -67,3 +67,4 @@ Distributed under [MIT](https://github.com/pH-7/CuteLinkNames/blob/main/LICENSE.
 
 [twitter-image]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [github-image]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[video-thumbnail]: https://i1.ytimg.com/vi/TgwfrkfXmj0/sddefault.jpg
