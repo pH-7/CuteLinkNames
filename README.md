@@ -66,4 +66,4 @@ Distributed under [MIT](https://github.com/pH-7/CuteLinkNames/blob/main/LICENSE.
 <!-- GitHub's Markdown reference links -->
 [twitter-image]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [github-image]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[video-thumbnail]: https://i1.ytimg.com/vi/9v9g722dulE/sddefault.jpg
+[video-thumbnail]: https://i1.ytimg.com/vi/TgwfrkfXmj0/sddefault.jpg
