@@ -1,6 +1,7 @@
 # Exclude dev/testing files from distribution
-/.github         export-ignore
-/tests           export-ignore
-phpunit.xml.dist export-ignore
-.gitignore       export-ignore
-.gitattributes   export-ignore
+/.github/                    export-ignore
+/tests/                      export-ignore
+phpunit.xml.dist             export-ignore
+php-link-name-convertor.png  export-ignore
+.gitignore                   export-ignore
+.gitattributes               export-ignore
