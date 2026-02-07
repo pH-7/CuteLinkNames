@@ -9,5 +9,5 @@ phpunit.xml
 # IDE (PHPStorm)
 /.idea
 
-# Log
+# OS-specific file
 .DS_Store
